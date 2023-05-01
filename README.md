@@ -1,4 +1,4 @@
-# Paginas, proyectos, ejercicios
+# Proyectos, Paginas y Ejercicios
 
 * https://adolfsan99.github.io/sanchprod/
 * https://adolfsan99.github.io/Selocambio.com/
