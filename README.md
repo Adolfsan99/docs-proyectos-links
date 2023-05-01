@@ -1,4 +1,4 @@
-# Proyectos, Paginas y Ejercicios
+# ⭐ Proyectos, Paginas y Ejercicios
 
 * https://adolfsan99.github.io/sanchprod/
 * https://adolfsan99.github.io/Selocambio.com/
@@ -8,6 +8,6 @@
 * https://adolfsan99.github.io/css-inventario-flexbox/
 * https://adolfsan99.github.io/html-blocdelcafe-git/
 
-## Requiere IDE para visualizarse
+## ⚠️ Necesitan IDE para visualizarse
 
 * https://github.com/Adolfsan99/fasttasks-v1 Requiere Visual Studio Code, XAMPP y InteliJ Idea
