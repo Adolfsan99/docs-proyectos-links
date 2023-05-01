@@ -10,4 +10,4 @@
 
 ## Requiere IDE para visualizarse
 
-* https://github.com/Adolfsan99/fasttasks-v1 Funciona con Visual Studio Code, XAMPP y InteliJ Idea
+* https://github.com/Adolfsan99/fasttasks-v1 Requiere Visual Studio Code, XAMPP y InteliJ Idea
