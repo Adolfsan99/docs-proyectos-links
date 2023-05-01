@@ -11,3 +11,6 @@
 ## ⚠️ Necesitan IDE para visualizarse
 
 * https://github.com/Adolfsan99/fasttasks-v1 Requiere Visual Studio Code, XAMPP y InteliJ Idea
+
+<br>
+<br>
