@@ -9,6 +9,7 @@
 ## ⚠️ Necesitan IDE para visualizarse
 
 * https://github.com/Adolfsan99/fasttasks-v1 Requiere Visual Studio Code, XAMPP y InteliJ Idea
+* https://github.com/Adolfsan99/react-testimonios-prueba Requiere Visual Studio Code y Node.js
 
 <br>
 
